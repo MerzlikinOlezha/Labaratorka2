@@ -1,7 +1,7 @@
 import math
 
 print('Дано уравнение ax^2+bx+c=0')
-print('Введите число a:')
+print('Введите числоa:')
 a = float(input())
 print('Введите число b:')
 b = float(input())
